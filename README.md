@@ -5,7 +5,7 @@ there 2 types
 1. Box-Cox transform
 
 2. The Yeo-Johnson transform
-## credits:https://www.youtube.com/watch?v=lV_Z4HbNAx0&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=31
+## credits:bit.ly/3KuaEcu
 ![power transform](https://user-images.githubusercontent.com/68773015/165347443-3f527064-4f77-40dc-9b78-9bb37523e9f4.png)
 ![BoxcoxTransform](https://user-images.githubusercontent.com/68773015/165347423-4960548f-1a49-46e9-a225-26dfffac9dc2.png)
 ![yeo-johnson transform](https://user-images.githubusercontent.com/68773015/165347433-8153cf3b-0595-4a92-b230-ee47b8ce5e7e.png)
